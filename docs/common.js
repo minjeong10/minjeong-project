@@ -47,3 +47,43 @@ gsap.from('.img-5', {
     start:'0 85%'
   }
 });
+
+gsap.from('.img-6', {
+  ease: Expo.easeIn,
+  opacity:0,
+  duration:0.7,
+  scrollTrigger:{
+    trigger:'.img-6',
+    start:'0 85%'
+  }
+});
+
+gsap.from('.img-7', {
+  ease: Expo.easeIn,
+  opacity:0,
+  duration:0.7,
+  scrollTrigger:{
+    trigger:'.img-7',
+    start:'0 85%'
+  }
+});
+
+gsap.from('.img-8', {
+  ease: Expo.easeIn,
+  opacity:0,
+  duration:0.7,
+  scrollTrigger:{
+    trigger:'.img-8',
+    start:'0 85%'
+  }
+});
+
+gsap.from('.img-9', {
+  ease: Expo.easeIn,
+  opacity:0,
+  duration:0.7,
+  scrollTrigger:{
+    trigger:'.img-9',
+    start:'0 85%'
+  }
+});

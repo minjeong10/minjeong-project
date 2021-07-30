@@ -122,13 +122,13 @@
 }
 
 .img-5 {
-  animation-name: floating;
+  animation-name: floating-1;
   animation-duration: 1.5s;
   animation-iteration-count: infinite;
   animation-timing-function:ease-in-out;
 }
 
-@keyframes floating {
+@keyframes floating-1 {
   0% {
     top:61.4%;
   }
@@ -189,48 +189,111 @@
 
 .img-box > .section-6 > .img-6 {
   position:absolute;
-  top:61.4%;
-  left:52.5%;
+  top:8.4%;
+  left:16.5%;
 }
 
 .img-box > .section-6 > .img-6 > img {
   height:auto;
-  width:9vw;
-  max-width:85px;
+  width:27.6vw;
+  max-width:270px;
 }
 
 .img-box > .section-6 > .img-7 {
   position:absolute;
-  top:61.4%;
-  left:52.5%;
+  top:28.4%;
+  left:58.0%;
 }
 
 .img-box > .section-6 > .img-7 > img {
   height:auto;
   width:9vw;
-  max-width:85px;
+  max-width:135px;
+}
+
+.img-7 {
+  animation-name: floating-2;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function:ease-in-out;
+}
+
+@keyframes floating-2 {
+  0% {
+    top:28.4%;
+  }
+  
+  50% {
+    top:27.2%;
+  }
+  
+  100% {
+    top:28.4%;
+  }
 }
 
 .img-box > .section-6 > .img-8 {
   position:absolute;
-  top:61.4%;
-  left:52.5%;
+  top:28.0%;
+  left:70.0%;
 }
 
 .img-box > .section-6 > .img-8 > img {
   height:auto;
   width:9vw;
-  max-width:85px;
+  max-width:135px;
+}
+
+.img-8 {
+  animation-name: floating-3;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function:ease-in-out;
+}
+
+@keyframes floating-3 {
+  0% {
+    top:28.4%;
+  }
+  
+  50% {
+    top:27.2%;
+  }
+  
+  100% {
+    top:28.4%;
+  }
 }
 
 .img-box > .section-6 > .img-9 {
   position:absolute;
-  top:61.4%;
-  left:52.5%;
+  top:27.8%;
+  left:81.5%;
 }
 
 .img-box > .section-6 > .img-9 > img {
   height:auto;
   width:9vw;
-  max-width:85px;
+  max-width:125px;
+}
+
+.img-9 {
+  animation-name: floating-4;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function:ease-in-out;
+}
+
+@keyframes floating-4 {
+  0% {
+    top:28.4%;
+  }
+  
+  50% {
+    top:27.2%;
+  }
+  
+  100% {
+    top:28.4%;
+  }
 }
