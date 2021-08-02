@@ -779,6 +779,18 @@
   padding-top:calc(100% / 1920 * 1382);
 }
 
+.img-box > .section-17 > .img-35 {
+  position:absolute;
+  top:7.0%;
+  left:15.5%;
+}
+
+.img-box > .section-17 > .img-35 > img {
+  height:auto;
+  width:20.6vw;
+  max-width:350px;
+}
+
 .img-box > .section-18 {
   height:auto;
   background-image:url(https://rawcdn.githack.com/minjeong10/minjeong-project/master/docs/resource/a-18.png);
@@ -792,6 +804,18 @@
   content:"";
   display:block;
   padding-top:calc(100% / 1920 * 1382);
+}
+
+.img-box > .section-18 > .img-37 {
+  position:absolute;
+  top:7.0%;
+  left:15.5%;
+}
+
+.img-box > .section-18 > .img-37 > img {
+  height:auto;
+  width:20.6vw;
+  max-width:320px;
 }
 
 .img-box > .section-19 {

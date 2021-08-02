@@ -297,3 +297,23 @@ gsap.from('.img-34', {
     start:'0 85%'
   }
 });
+
+gsap.from('.img-35', {
+  ease: Expo.easeIn,
+  opacity:0,
+  duration:0.7,
+  scrollTrigger:{
+    trigger:'.img-35',
+    start:'0 85%'
+  }
+});
+
+gsap.from('.img-37', {
+  ease: Expo.easeIn,
+  opacity:0,
+  duration:0.7,
+  scrollTrigger:{
+    trigger:'.img-37',
+    start:'0 85%'
+  }
+});
