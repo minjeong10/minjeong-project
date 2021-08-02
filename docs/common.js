@@ -87,3 +87,23 @@ gsap.from('.img-9', {
     start:'0 85%'
   }
 });
+
+gsap.from('.img-10', {
+  ease: Expo.easeIn,
+  opacity:0,
+  duration:0.7,
+  scrollTrigger:{
+    trigger:'.img-10',
+    start:'0 85%'
+  }
+});
+
+gsap.from('.img-12', {
+  ease: Expo.easeIn,
+  opacity:0,
+  duration:0.7,
+  scrollTrigger:{
+    trigger:'.img-12',
+    start:'0 85%'
+  }
+});
